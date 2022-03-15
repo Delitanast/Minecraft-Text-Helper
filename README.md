@@ -1,4 +1,4 @@
-# Calculator
+# Minecraft-Text-Helper
 # Contributors:
 1. Delitanast<br>
 An official <a href="https://delitanast.github.io">website</a>.
